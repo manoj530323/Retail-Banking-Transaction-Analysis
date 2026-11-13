@@ -76,3 +76,13 @@ The project uses eight source tables:
 ### Transactions Table
 
 ![Transactions Power Query](screenshots/Transaction_Power_Query.png.png)
+
+
+---
+
+## Copyright
+
+© 2026. All rights reserved.
+
+This project is shared for portfolio and demonstration purposes.
+Reproduction, redistribution, or reuse of this project without permission is not authorized.
