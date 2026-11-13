@@ -58,7 +58,7 @@ The project uses eight source tables:
 
 ## Project Files
 - Power BI dashboard (.pbix)
-- Dashboard report (.pdf)
+- [View Power BI Report (PDF)](Retail_Banking_Transaction_Analysis.pdf)
 - Project screenshots and documentation
 
 ---
