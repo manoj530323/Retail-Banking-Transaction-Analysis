@@ -61,3 +61,18 @@ The project uses eight source tables:
 - Dashboard report (.pdf)
 - Project screenshots and documentation
 
+---
+
+## Data Model
+
+![Power BI Data Model](screenshots/Model_View.png.png)
+
+## Data Cleaning & Transformation
+
+### Customers Table
+
+![Customers Power Query](screenshots/Customer_Power_Query.png.png)
+
+### Transactions Table
+
+![Transactions Power Query](screenshots/Transaction_Power_Query.png.png)
